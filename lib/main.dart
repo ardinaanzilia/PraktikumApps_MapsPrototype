@@ -100,9 +100,12 @@ class MyApp extends StatelessWidget {
             const Padding(
               padding: EdgeInsets.all(32.0),
               child: Text(
-                'Oeschinen Lake is one of the largest Alpine Lakes in Switzerland. '
-                'Located near Kandersteg in the Bernese Oberland, it is surrounded '
-                'by beautiful mountains and is a popular tourist destination.',
+                'Carilah teks di internet yang sesuai '
+                'dengan foto atau tempat wisata yang ingin '
+                'Anda tampilkan. '
+                'Tambahkan nama dan NIM Anda sebagai '
+                'identitas hasil pekerjaan Anda. '
+                'Selamat mengerjakan 🙂.',
                 softWrap: true,
               ),
             ),

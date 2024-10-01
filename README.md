@@ -1,12 +1,14 @@
 # flutter_application_layout2d
 
-A new Flutter project.
+Flutter project Design Maps Prototype
+## Nur Ardina Anzilia Putri
+## NIM 362358302044
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+#### Code Program
 
-A few resources to get you started if this is your first Flutter project:
+![code](assets/Screenshot%202024-10-01%20115014.png)
+
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
